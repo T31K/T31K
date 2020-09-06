@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(https://github.com/T31K/T31K/raw/master/BG.jpeg)
+[![Social banner for jh3y](https://github.com/T31K/T31K/raw/master/BG.jpeg)
 
