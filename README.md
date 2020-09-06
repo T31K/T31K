@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 ![Social banner for jh3y](https://github.com/T31K/T31K/raw/master/bg.jpg)
 -->
 
-[![T31K's github stats](https://github-readme-stats.vercel.app/api?username=T31K)](https://github.com/T31K/github-readme-stats)
+[![T31K's github stats](https://github-readme-stats.vercel.app/api?username=T31K&show_icons=true&theme=graywhite&bg_color=0,b6fbff,83a4d4)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T31K&layout=compact)](https://github.com/T31K/github-readme-stats)
