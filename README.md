@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=T31K&show_icons=true&count_private=true&hide=prs,issuest&theme=tokyonight&bg_color=0,fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=T31K&show_icons=true&count_private=true&hide=prs,issues&bg_color=1b262c&title_color=3282b8&text_color=3282b8&icon_color=bbe1fa" />
 </a>
-
 
