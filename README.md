@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 </a>
 <br>
-<hr>
+____
 🔭 Current Project: <a href=apieceofpi.com>A Piece Of Pi</a>
 
 🌱 Current Learning: Java Spring
