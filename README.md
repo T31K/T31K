@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/T31K/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T31K&theme=buefy&bg_color=0,fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T31K&theme=tokyonight&bg_color=0,fff" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=T31K&show_icons=true&count_private=true&hide=prs,issuest&theme=buefy&bg_color=0,fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=T31K&show_icons=true&count_private=true&hide=prs,issuest&theme=tokyonight&bg_color=0,fff" />
 </a>
 
