@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 [![T31K's github stats](https://github-readme-stats.vercel.app/api?username=T31K)](https://github.com/T31K/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T31K&layout=compact)](https://github.com/T31K/github-readme-stats)
