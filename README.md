@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![Social banner for jh3y](https://github.com/T31K/T31K/raw/master/bg.jpg)
+-->
+
+[![T31K's github stats](https://github-readme-stats.vercel.app/api?username=T31K)](https://github.com/T31K/github-readme-stats)
 
