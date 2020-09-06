@@ -23,7 +23,7 @@ Here are some ideas to get you started:
                             
 
 ## 🔭 Current Project: 
-<a href=apieceofpi.com>A Piece Of Pi</a>
+<a href=https://apieceofpi.com>A Piece Of Pi</a>
 
 ## 🌱 Current Learning: 
 Java Spring
