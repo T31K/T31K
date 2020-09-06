@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![T31K's github stats](https://github-readme-stats.vercel.app/api?username=T31K&show_icons=true&count_private=true&hide=prs,issuestheme=graywhite&bg_color=0,b6fbff,83a4d4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T31K&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T31K&bg_color=0,b6fbff,83a4d4&theme=graywhite)
