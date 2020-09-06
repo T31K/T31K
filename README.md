@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://github.com/T31K/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T31K&theme=graywhite&bg_color=0,ed4264,ffedbc" />
+</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=T31K&show_icons=true&count_private=true&hide=prs,issuest&theme=graywhite&bg_color=0,ed4264,ffedbc" />
 </a>
 
-
-<a href="https://github.com/T31K/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T31K&theme=graywhite&bg_color=0,ed4264,ffedbc" />
-</a>
