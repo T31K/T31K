@@ -3,9 +3,6 @@
 
 Here are some ideas to get you started:
 
-<!---
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <a href="https://github.com/T31K/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t31k&bg_color=bbe1fa&title_color=3282b8&text_color=0f4c75&icon_color=fff&hide_title=true" />
