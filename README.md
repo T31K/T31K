@@ -1,15 +1,16 @@
-<img align="center" src="https://raw.githubusercontent.com/T31K/T31K/master/bg.png"/>
+<img align="center" src="https://raw.githubusercontent.com/T31K/T31K/master/bg.png"/>   
 
+#
+<p> Hello world! My name is Tim and I'm a self taught developer, I have learned from many sources such as
+Harvard's edX, r/LearnProgramming, Udemy, Stack Overflow and freeCodeCamp. I love learning and believe it is a life-long journey to continually improve upon oneself.
+  
+## Check out my repo for a list of my projects I have worked on!
 
-
-
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=T31K&show_icons=true&count_private=true&hide=prs&bg_color=bbe1fa&title_color=3282b8&text_color=0f4c75&icon_color=fff" />
-</a>
-           
 
 ## 🔭 Current Project: 
 <a href=https://apieceofpi.com>A Piece Of Pi</a>
 
-## 🌱 Current Learning: 
-Java Spring
+## Socials
+<li><a href=https://t31k.dev>Portfolio Site</a></li>
+<li><a href=https://linkedin.com/in/teikmunwong>LinkedIn</a></li>
+<li><a href=t31kmunwong@gmail.com>Email</a></li>
