@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/T31K/T31K/master/bg.png"/>   
+<img align="center" src="https://raw.githubusercontent.com/T31K/T31K/master/BG%20linkedin%20NEW.jpg"/>   
 
 #
 <p> Hello world! My name is Tim and I'm a self taught developer, I have learned from many sources such as
