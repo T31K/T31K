@@ -4,7 +4,7 @@
 <p> Hello world! My name is Tim and I'm a self taught developer, I have learned from many sources such as
 Harvard's edX, r/LearnProgramming, Udemy, Stack Overflow and freeCodeCamp. I love learning and believe it is a life-long journey to continually improve upon oneself.
   
-## Check out my repo for a list of my projects I have worked on!
+## Check out my repos on a list of my projects I have worked on!
 
 
 ## 🔭 Current Project: 
