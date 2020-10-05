@@ -11,4 +11,6 @@ Harvard's edX, r/LearnProgramming, Udemy, Stack Overflow and freeCodeCamp. I lov
 <a href=https://apieceofpi.com>A Piece Of Pi</a>
 
 ## Socials
-<li><a href=t31kmunwong@gmail.com>Email</a></li>
+<li><a href="mailto:t31kmunwong@gmail.com">Email</a></li>
+<li><a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></li>
+<li><a href="https://t31k.dev">Portfolio Site</a></li>
