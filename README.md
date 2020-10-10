@@ -8,8 +8,7 @@ Harvard's edX, r/LearnProgramming, Udemy, Stack Overflow and freeCodeCamp. I lov
 
 
 ## 🔭 Current Project: 
-<a href=https://github.com/T31K/busApp>busApp</a>
-
+<a href="https://github.com/T31K/A-Piece-ofPi">A Piece of Pi | Tech Blog</a>
 ## Socials
 <li><a href="mailto:t31kmunwong@gmail.com">Email</a></li>
 <li><a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></li>
