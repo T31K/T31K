@@ -7,7 +7,7 @@ Check out my repos on a list of my projects I have worked on!
 
 
 ## 🔭 Current Project: 
-<a href="https://github.com/T31K/A-Piece-ofPi">A Piece of Pi | Tech Blog</a>
+<a href="https://github.com/T31K/A-Piece-of-Pi">A Piece of Pi | Tech Blog</a>
 
 ## :star2: Latest Completed Project
 <a href="https://thebusetaapp.herokuapp.com">busApp</a>
