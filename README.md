@@ -7,7 +7,8 @@ Check out my repos on a list of my projects I have worked on!
 
 
 ## 🔭 Current Project: 
-Brushing up on advanced JS concepts :D
+Brushing up on advanced JS concepts
+<a href="https://www.theavocoder.com/complete-javascript">@ The Avocoder</a>
 
 
 ## :star2: Latest Completed Project
