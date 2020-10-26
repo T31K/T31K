@@ -8,7 +8,7 @@ Check out my repos on a list of my projects I have worked on!
 
 ## 🔭 Current Project: 
 Prepping interviews
-<a href="https://www.theavocoder.com/complete-javascript">learning frmo The Avocoder</a>
+<a href="https://www.theavocoder.com/complete-javascript">learning from The Avocoder</a>
 
 
 ## :star2: Latest Completed Project
