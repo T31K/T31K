@@ -17,4 +17,4 @@ Prepping interviews
 ## Socials
 <li><a href="mailto:t31kmunwong@gmail.com">Email</a></li>
 <li><a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></li>
-<li><a href="https://t31k.dev">Portfolio Site</a></li>
+<li><a href="https://t31k.dev">Portfolio Site (Just Updated)</a></li>
