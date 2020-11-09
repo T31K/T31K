@@ -7,7 +7,7 @@ Check out my repos on a list of my projects I have worked on!
 
 
 ## 🔭 Current Project: 
-@BetterSG
+@ BetterSG
 
 
 ## :star2: Latest Completed Project
