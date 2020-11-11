@@ -7,7 +7,7 @@ Check out my repos on a list of my projects I have worked on!
 
 
 ## 🔭 Current Project: 
-Designing @ <a href="https://better.sg">BetterSG</a>
+Designing FE @ <a href="https://better.sg">BetterSG</a>
 
 
 ## :star2: Latest Completed Project
