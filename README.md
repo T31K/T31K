@@ -7,7 +7,7 @@ Check out my repos on a list of my projects I have worked on!
 
 
 ## 🔭 Current Project: 
-Frontend team @ BetterSG => <a href="https://better.sg">Org Website</a>
+Frontend Team @ BetterSG => <a href="https://better.sg">Org Website</a>
 
 
 ## :star2: Latest Completed Project
