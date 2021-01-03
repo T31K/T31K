@@ -10,8 +10,8 @@ Check out my repos on a list of my projects I have worked on!
 Frontend Team @ VeriFact.sg (Better.sg projets) 
 
 
-## :star2: Latest Completed Project
-busApp => <a href="https://thebusetaapp.herokuapp.com">Live Demo</a>
+## :star2: Update:
+Updated my <a href="https://t31k.dev">portfolio site</a>
 
 ## Socials
 <li><a href="mailto:t31kmunwong@gmail.com">Email</a></li>
