@@ -1,16 +1,14 @@
 <img align="center" src="https://raw.githubusercontent.com/T31K/T31K/master/BG%20linkedin%20NEW.jpg"/>   
 
 #
-<p> Hello world! My name is Tim and I'm currently a tech consultant/developer. I was previously self taught, I have learned from many sources such as
-Harvard's edX, r/LearnProgramming, Udemy, Stack Overflow and freeCodeCamp. I love learning and believe it is a life-long journey to continually improve upon oneself.
-Check out my repos on a list of my projects I have worked on!
+<p> Hello world! My name is Tim and I'm currently a tech consultant/developer. I hold all the repos below close to my heart as I was a self taught developer that "made it". I love learning and believe it is a life-long journey to continually improve upon oneself. Check it out & I hope you enjoy looking through :smile:
 
 
 ## 🔭 Current Project: 
-Frontend Team @ VeriFact.sg (Better.sg projets) 
+Frontend Team @ VeriFact (Better.sg projets) // learning GraphQL (:man_facepalming:)
 
 
-## :star2: Update:
+## :star2: Latest Updates:
 Updated my <a href="https://t31k.dev">portfolio site</a>
 
 ## Socials
