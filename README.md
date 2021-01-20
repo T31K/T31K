@@ -11,7 +11,8 @@ Frontend Team @ VeriFact (Better.sg projets) // learning GraphQL :man_facepalmin
 ## :star2: Latest Updates:
 Updated my <a href="https://t31k.dev">portfolio site</a>
 
+
 ## Socials
 <li><a href="mailto:t31kmunwong@gmail.com">Email</a></li>
 <li><a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></li>
-<li><a href="https://t31k.dev">Portfolio Site (Just Updated)</a></li>
+<li><a href="https://t31k.dev">Portfolio Site (Recently  Updated)</a></li>
