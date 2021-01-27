@@ -5,7 +5,7 @@
 
 
 ## 🔭 Current Project: 
-Frontend Team @ VeriFact (Better.sg projets) // learning GraphQL :man_facepalming:
+Frontend Team @ VeriFact.sg => learning GraphQL :man_facepalming:
 
 
 ## :star2: Latest Updates:
