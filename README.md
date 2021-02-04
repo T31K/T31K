@@ -12,7 +12,7 @@ Frontend Team @ VeriFact.sg
 Updated my <a href="https://t31k.dev">portfolio site</a>
 
 
-## Socials
+## :key: Socials
 <li><a href="mailto:t31kmunwong@gmail.com">Email</a></li>
 <li><a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></li>
 <li><a href="https://t31k.dev">Portfolio Site (Recently  Updated)</a></li>
