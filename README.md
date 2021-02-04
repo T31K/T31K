@@ -13,6 +13,6 @@ Updated my <a href="https://t31k.dev">portfolio site</a>
 
 
 ## :key: Socials
-<li><a href="mailto:t31kmunwong@gmail.com">Email</a></li>
-<li><a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></li>
-<li><a href="https://t31k.dev">Portfolio Site (Recently  Updated)</a></li>
+<p>:round_pushpin: <a href="mailto:t31kmunwong@gmail.com">Email</a></p>
+<p>:round_pushpin: <a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></p>
+<p>:round_pushpin: <a href="https://t31k.dev">Portfolio Site (Recently  Updated)</a></p>
