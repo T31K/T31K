@@ -6,7 +6,7 @@
 
 
 ## 🔭 Current Project
-Frontend Team @ VeriFact.sg
+Frontend Team @ <a href="https://verifact.sg/">VeriFact.sg</a>
 
 
 ## :star2: Latest Updates
