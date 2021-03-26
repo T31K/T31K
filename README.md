@@ -6,8 +6,8 @@
 
 
 ## 🔭 Current Project
-Frontend Team currently building login/register team @ <a href="https://verifact.sg/">VeriFact.sg</a>
-
+Frontend Team currently building login @ <a href="https://verifact.sg/">VeriFact.sg</a>
+Learning Ruby/Ror for potential new job 😅
 
 ## :star2: Latest Updates
 Updated my <a href="https://t31k.dev">portfolio site</a>
