@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/T31K/T31K/master/BG%20linkedin%20NEW.jpg"/>   
 
 #
-<p> Hello world! My name is Tim and I'm currently a tech consultant/developer. I hold all the repos below close to my heart as I was a self taught developer that "made it". I love learning and believe it is a life-long journey to continually improve upon oneself. Check it out & I hope you enjoy looking through :smile:
+<p> Hello world! My name is Tim and I'm currently a software engineer. I hold all the repos below close to my heart as I was a self taught developer that "made it". I love learning and believe it is a life-long journey to continually improve upon oneself. Check it out & I hope you enjoy looking through :smile:
 
 
 
