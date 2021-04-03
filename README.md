@@ -7,7 +7,7 @@
 
 ## 🔭 Current Project
 <p> :round_pushpin: Frontend Team currently building login @ <a href="https://verifact.sg/">VeriFact.sg</a> </p>
-<p> :round_pushpin: Learning Ruby/Ror for potential new job 😅 </p>
+<p> :round_pushpin: Learning Ruby/RoR for new job 😅 </p>
 
 ## :star2: Latest Updates
 Updated my <a href="https://t31k.dev">portfolio site</a>
