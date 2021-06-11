@@ -12,7 +12,7 @@
 ### Productive Month 🏆
 <p> :round_pushpin: Revamped <a href="https://clemanteemusic.com/">Clemantee Music </a> </p>
 <p> :round_pushpin: Revamped <a href="https://mirabelledecoupage.com/">Mirabelle Decoupage </a> </p>
-<p> :round_pushpin: Migrated my blog to <a href="https://t31k.dev/"> my portfolio site </a> using Medium's API </p>
+<p> :round_pushpin: Migrated my blog to <a href="https://t31k.dev/blog"> my portfolio site </a> using Medium's API </p>
 
 
 
