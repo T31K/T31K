@@ -1,8 +1,11 @@
 <img align="center" src="https://raw.githubusercontent.com/T31K/T31K/master/BG%20linkedin%20NEW.jpg"/>   
 
-#
-<p> Hello world! My name is Tim and I'm currently a software engineer. I hold all the repos below close to my heart as I was a self taught developer that "made it". I love learning and believe it is a life-long journey to continually improve upon oneself. Check it out & I hope you enjoy looking through :smile: </p>
-
+## 🤙 About Me 
+<p>🚀 Hello. Tim here. Ex flight crew, present day dev </p> 
+<p>🚀 Full Stack but I work more on frontend recently </p>
+<p>🚀 Love computers, robots, blockchain and books</p>
+<p>🚀 Avid writer on Medium for a publication called JavaScript in Plain English, on topics like programming, life lessons and everything in between. </p>
+<p>🚀 Firm believer of Atomic Habits, trusting that consistent hard work & good habits can develop into any formidable skill in any field. </p>
 
 
 ## 🔭 Current Project
@@ -17,6 +20,7 @@
 
 
 ## :key: Socials
-<p>:round_pushpin: <a href="mailto:t31kmunwong@gmail.com">Email</a></p>
-<p>:round_pushpin: <a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></p>
-<p>:round_pushpin: <a href="https://t31k.dev">Portfolio Site</a></p>
+<p>📧 <a href="mailto:t31kmunwong@gmail.com">Email</a></p>
+<p>🖇 <a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></p>
+<p>🖥 <a href="https://t31k.dev">Portfolio Site</a></p>
+<p>✍🏻 <a href="https://t31k.dev/blog/">Blog</a></p>
