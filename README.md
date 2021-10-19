@@ -17,7 +17,7 @@
 <p>  📧 <a href="mailto:t31kmunwong@gmail.com">Email</a></p>
 <p>  🖇 <a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></p>
 <p>  🖥 <a href="https://t31k.dev">Portfolio Site</a></p>
-<p>  ✍🏻 <a href="https://t31k.dev/blog/">Blog</a></p>
+<p>  ✍🏻 <a href="https://t31k.dev/blog">Blog</a></p>
 
 ## 📖 Blog
 ### 📈 Top Articles 
