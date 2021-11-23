@@ -2,10 +2,10 @@
 
 ## 🤙 About Me 
 <p>🚀⠀Hello. Tim here. Ex flight crew, present day dev </p> 
-<p>🚀⠀Full Stack but I work more on frontend recently </p>
+<p>🚀⠀Full Stack but I work more on frontend </p>
 <p>🚀⠀Love computers, robots, blockchain and books</p>
-<p>🚀⠀Avid writer on Medium for a publication called JavaScript in Plain English, on topics like programming, life lessons and everything in between. </p>
-<p>🚀⠀Firm believer of Atomic Habits, trusting that consistent hard work & good habits can develop into any formidable skill in any field. </p>
+<p>🚀⠀Avid writer on Medium for a publication called JavaScript in Plain English, on topics like programming, life lessons and everything in between </p>
+<p>🚀⠀Firm believer of Atomic Habits, trusting that consistent hard work & good habits can develop into any formidable skill anywhere </p>
 
 ## :star2: Latest Updates
 ### 🏆 Productive Month 
