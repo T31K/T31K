@@ -22,13 +22,13 @@
 <p>  📧 <a href="mailto:t31kmunwong@gmail.com">Email</a></p>
 <p>  🖇 <a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></p>
 <p>  🖥 <a href="https://t31k.dev">Portfolio Site</a></p>
-<p>  ✍🏻 <a href="https://t31k.dev/blog"> Blog</a></p>
+<p>  📖 <a href="https://t31k.dev">Blog</a></p>
 
 
 <br>
 
 ## 📖 Blog
-### 📈 Top Articles 
+### 📈 Some of my Articles 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@t31k/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@t31k/9" alt="Recent Article 0">
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@t31k/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@t31k/0" alt="Recent Article 0">
