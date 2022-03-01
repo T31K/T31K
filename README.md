@@ -1,6 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/T31K/T31K/master/BG%20linkedin%20NEW.jpg"/>   
 
-## 🤙 About Me 
+## 🤙🏻 About Me 
 <p>🚀⠀Hello. Tim here. Ex flight crew, present day dev </p> 
 <p>🚀⠀Started as Frontend but moved to Full Stack</p>
 <p>🚀⠀Love computers, robots, blockchain and books</p>
