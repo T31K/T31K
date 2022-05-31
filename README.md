@@ -11,7 +11,7 @@
 
 ## :star2: Latest Updates
 ### 🏆 Productive Month 
-<p> :round_pushpin: Semi-revamped <a href="https://t31k.dev/">my Site</a> </p>
+<p> :round_pushpin: Semi-revamped <a href="https://t31k.dev/">my site</a> </p>
 <p> :round_pushpin: Built <a href="https://remandy.art/"> remandy.art  </a> (art company landing page)</p>
 
 <br>
