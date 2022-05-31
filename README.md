@@ -2,7 +2,7 @@
 
 ## 🤙🏻 About Me 
 <p>:rocket: Hello. Tim here. Ex flight crew, present day dev </p> 
-<p>:rocket: Started as Frontend but moved to Full Stack</p>
+<p>:rocket: Full Stack but specialize on the frontend</p>
 <p>:rocket: Love computers, robots, blockchain and books</p>
 <p>:rocket: Avid writer on Medium for a publication called <a href="https://javascript.plainenglish.io/">JavaScript in Plain English</a> & <a href="https://medium.com/geekculture">Geek Culture </a></p>
 <p>:rocket: Firm believer of Atomic Habits, trusting that consistent hard work & good habits can develop into any formidable skill anywhere </p>
@@ -11,10 +11,8 @@
 
 ## :star2: Latest Updates
 ### 🏆 Productive Month 
-<p> :round_pushpin: Revamped <a href="https://clemanteemusic.com/">Clemantee Music </a> </p>
-<p> :round_pushpin: Revamped <a href="https://mirabelledecoupage.com/">Mirabelle Decoupage </a> </p>
-<p> :round_pushpin: Migrated my blog to <a href="https://t31k.dev/blog"> my portfolio site </a> using Medium's API </p>
-
+<p> :round_pushpin: Semi-revamped <a href="https://t31k.dev/">my Site</a> </p>
+<p> :round_pushpin: Built <a href="https://remandy.art/"> remandy.art  </a> (art company landing page)</p>
 
 <br>
 
