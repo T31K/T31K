@@ -1,8 +1,8 @@
 <img align="center" src="https://raw.githubusercontent.com/T31K/T31K/master/BG%20linkedin%20NEW.jpg"/>   
 
 ## 🤙🏻 About Me 
-<p>:rocket: Hello. Tim here. Ex flight crew, present day dev </p> 
-<p>:rocket: Full Stack but specialize on the frontend</p>
+<p>:rocket: Hi. Tim here. Ex flight crew, present day dev </p> 
+<p>:rocket: Full stack but specialize on the frontend</p>
 <p>:rocket: Love computers, robots, blockchain and books</p>
 <p>:rocket: Avid writer on Medium for a publication called <a href="https://javascript.plainenglish.io/">JavaScript in Plain English</a> & <a href="https://medium.com/geekculture">Geek Culture </a></p>
 <p>:rocket: Firm believer of Atomic Habits, trusting that consistent hard work & good habits can develop into any formidable skill anywhere </p>
@@ -13,6 +13,7 @@
 ### 🏆 Productive Month 
 <p> :round_pushpin: Semi-revamped <a href="https://t31k.dev/">my site</a> </p>
 <p> :round_pushpin: Built <a href="https://remandy.art/"> remandy.art  </a> (art company landing page)</p>
+<p> :round_pushpin: Started teaching coding @ <a href="https://generalassemb.ly/"> General Assembly </a></p>
 
 <br>
 
