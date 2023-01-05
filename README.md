@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/T31K/T31K/master/BG%20linkedin%20NEW.jpg"/>   
 
 ## 🤙🏻 About Me 
-<p>:rocket: Hi. Tim here. Ex flight crew, present day dev </p> 
+<p>:rocket: Hi. Tim here. Software Enginner, ex flight crew</p> 
 <p>:rocket: Full stack but specialize on the frontend</p>
 <p>:rocket: Love computers, robots, blockchain and books</p>
 <p>:rocket: Avid writer on Medium for a publication called <a href="https://javascript.plainenglish.io/">JavaScript in Plain English</a> & <a href="https://medium.com/geekculture">Geek Culture </a></p>
