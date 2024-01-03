@@ -20,7 +20,7 @@
 ## :key: Socials
 <p>:envelope: <a href="mailto:t31kmunwong@gmail.com">Email</a></p>
 <p>  🖇 <a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></p>
-<p>  🖥 <a href="https://t31k.dev">Portfolio Site</a></p>
+<p>  🖥 <a href="https://twitter.com/t31k">Twitter</a></p>
 <p>  📖 <a href="https://t31k.dev">Blog</a></p>
 
 
