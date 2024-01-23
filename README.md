@@ -11,19 +11,23 @@
 
 ## 📱 Indie Hacker Projects
 <p> 🍔 Calorieasy: Track calories in seconds with AI @ <a href="https://calorieasy.app">calorieasy.app</a></p>
-<p> 🎹 Harmonize: Turbocharged music controls @ <a href="https://getharmonize">getharmonize</a></p>
+<p> 🎹 Harmonize: Turbocharged music controls @ <a href="https://getharmonize">getharmonize.app</a></p>
 
 <br>
 
 ## :key: Socials
-<p>:envelope: <a href="mailto:t31kmunwong@gmail.com">Email</a></p>
-<p>  🖇 <a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></p>
 <p>  🖥 <a href="https://twitter.com/t31kx">Twitter</a></p>
+<p>  🖇 <a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></p>
 
 <br>
 
 ## 📖 Blog
 ### 📈 Some of my Articles 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@t31k/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@t31k/9" alt="Recent Article 0">
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@t31k/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@t31k/0" alt="Recent Article 0">
+<a target="_blank" href="https://medium.com/@t31k/indie-hacking-year-1-review-0d695880ebfb">👾 Indie Hacking Year 1 Review</a><br/><br/>
+<a target="_blank" href="https://t31k.medium.com/balancing-bali-escaping-reality-or-losing-yourself-5afecda90a35">🏝️ Reflecting on Bali: Embracing the Dualities and Moving Forward</a><br/><br/>
+<a target="_blank" href="https://medium.com/geekculture/coding-bootcamps-vs-comp-science-grads-e16b5a246aaa">⌨️ Coding Bootcamps vs Comp Science Grads</a><br/><br/>
+<a target="_blank" href="https://javascript.plainenglish.io/i-became-a-developer-with-a-20-bootcamp-32c776eaba13">💰 I Attended a $20 Bootcamp and Became a Full Stack Developer</a><br/><br/>
+<a target="_blank" href="https://javascript.plainenglish.io/how-to-create-a-kick-ass-portfolio-site-that-will-wow-your-next-employer-5e5e2009222">💼How to Create a Kick-ass Portfolio Site that will WOW Your Next Employer</a>
+
+
+
