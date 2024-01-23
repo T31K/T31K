@@ -9,20 +9,16 @@
 
 <br>
 
-## :star2: Latest Updates
-### 🏆 Productive Month 
-<p> :round_pushpin: Semi-revamped <a href="https://t31k.dev/">my site</a> </p>
-<p> :round_pushpin: Built <a href="https://remandy.art/"> remandy.art  </a> (art company landing page)</p>
-<p> :round_pushpin: Started teaching coding @ <a href="https://generalassemb.ly/"> General Assembly </a></p>
+## 📱 Indie Hacker Projects
+<p> 🍔 Calorieasy: Track calories in seconds with AI @ <a href="https://calorieasy.app">calorieasy.app</a></p>
+<p> 🎹 Harmonize: Turbocharged music controls @ <a href="https://getharmonize">getharmonize</a></p>
 
 <br>
 
 ## :key: Socials
 <p>:envelope: <a href="mailto:t31kmunwong@gmail.com">Email</a></p>
 <p>  🖇 <a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></p>
-<p>  🖥 <a href="https://twitter.com/t31k">Twitter</a></p>
-<p>  📖 <a href="https://t31k.dev">Blog</a></p>
-
+<p>  🖥 <a href="https://twitter.com/t31kx">Twitter</a></p>
 
 <br>
 
