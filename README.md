@@ -10,7 +10,7 @@
 <br>
 
 ## 📱 Indie Hacker Projects
-<p> 🍔 Calorieasy: Track calories in seconds with AI @ <a href="https://calorieasy.ai">calorieasy.app</a></p>
+<p> 🍔 Calorieasy: Track calories in seconds with AI @ <a href="https://calorieasy.app">calorieasy.app</a></p>
 <p> 🎹 Harmonize: Turbocharged music controls @ <a href="https://getharmonize">getharmonize.app</a></p>
 
 <br>
