@@ -1,9 +1,8 @@
 <img align="center" src="https://raw.githubusercontent.com/T31K/T31K/master/BG%20linkedin%20NEW.jpg"/>   
 
 ## 🤙🏻 About Me 
-<p>:rocket: Hi. Tim here. Software Enginner, ex flight crew</p> 
-<p>:rocket: Full stack but specialize on the frontend</p>
-<p>:rocket: Love computers, robots, blockchain and books</p>
+<p>:rocket: Hi, Tim here. Ex lead engineer, full time indie hacker solopreneur</p> 
+<p>:rocket: I looooove computers, robots, AI and books, gym</p>
 <p>:rocket: Avid writer on Medium for a publication called <a href="https://javascript.plainenglish.io/">JavaScript in Plain English</a> & <a href="https://medium.com/geekculture">Geek Culture </a></p>
 <p>:rocket: Firm believer of Atomic Habits, trusting that consistent hard work & good habits can develop into any formidable skill anywhere </p>
 
@@ -12,14 +11,15 @@
 ## 📱 Indie Hacker Projects
 <p> 🍔 Calorieasy: Track calories in seconds with AI @ <a href="https://calorieasy.app">calorieasy.app</a></p>
 <p> 🎹 Harmonize: Turbocharged music controls @ <a href="https://getharmonize">getharmonize.app</a></p>
-
+<p> 🔮 Taroternity: Tarot card readings with AI @ <a href="https://tarotenrity.com">taroternity.com</a></p>
+<p> 📱 UGC Gen AI: Make viral UGC content with AI @ <a href="https://ugcgenai.com">ugcgenai.com</a></p>
 <br>
 
 
 ## :key: Socials
-<p>  🖥 <a href="https://twitter.com/t31kx">Twitter</a></p>
+<p>  🖥 <a href="https://twitter.com/t31kx">Twitter/X</a></p>
+<p>  📖 <a href="https://medium.com/@t31k">Medium</a></p>
 <p>  🖇 <a href="https://linkedin.com/in/teikmunwong">LinkedIn</a></p>
-
 <br>
 
 ## 📖 Blog
